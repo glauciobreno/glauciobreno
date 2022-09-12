@@ -1,6 +1,6 @@
 # Olá 👋, Meu nome é Glaucio Breno
 
-<img width="100%" src="[[https://uploaddeimagens.com.br/imagens/BgpTAuA](https://uploaddeimagens.com.br/images/004/020/024/original/github-header-image.png?1663025128)](https://imgbox.com/NegftQwB)" alt="my banner">
+<img width="100%" src="https://images2.imgbox.com/b3/fe/NegftQwB_o.png" alt="banner"/></a>>
 
 ## 💫 Um resumo sobre mim
 
