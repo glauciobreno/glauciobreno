@@ -1,10 +1,10 @@
 # Olá 👋, Meu nome é Glaucio Breno
 
-<img width="100%" src="[https://uploaddeimagens.com.br/imagens/BgpTAuA](https://uploaddeimagens.com.br/images/004/020/024/original/github-header-image.png?1663025128)" alt="my banner">
+<img width="100%" src="[[https://uploaddeimagens.com.br/imagens/BgpTAuA](https://uploaddeimagens.com.br/images/004/020/024/original/github-header-image.png?1663025128)](https://imgbox.com/NegftQwB)" alt="my banner">
+
+## 💫 Um resumo sobre mim
 
 Técnico em informático pelo IFRN, atualmente em aperfeiçoamento no curso de Desenvolvedor Full Stack na Cubos Academy.
-
-## 💫 Liitle Bit More About Me
 
 ## 💻 Minhas Skills
 <p>
