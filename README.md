@@ -1,6 +1,6 @@
 # Olá 👋, Meu nome é Glaucio Breno
 
-<img width="100%" src="https://uploaddeimagens.com.br/imagens/BgpTAuA" alt="my banner">
+<img width="100%" src="[https://uploaddeimagens.com.br/imagens/BgpTAuA](https://uploaddeimagens.com.br/images/004/020/024/original/github-header-image.png?1663025128)" alt="my banner">
 
 Técnico em informático pelo IFRN, atualmente em aperfeiçoamento no curso de Desenvolvedor Full Stack na Cubos Academy.
 
@@ -22,14 +22,3 @@ Técnico em informático pelo IFRN, atualmente em aperfeiçoamento no curso de D
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/glauciobreno/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
-
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=Glaucio%20Breno">
-</p>
-
-## 📊 Github Status
