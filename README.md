@@ -1,4 +1,3 @@
-# Olá 👋, Meu nome é Glaucio Breno
 
 <img width="100%" src="https://images2.imgbox.com/b3/fe/NegftQwB_o.png" alt="banner"/></a>
 
