@@ -23,7 +23,7 @@
 <br/>  
 <div align="center">
   <a href="https://github.com/glauciobreno">
-    <img width="430em" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=glauciobreno&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=Glaucio%20Breno%20%27s%20GitHub%20Stats"/><img width="430em" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=glauciobreno&layout=compact&langs_count=7&theme=nightowl"/>
+    <img width="420em" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=glauciobreno&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=Glaucio%20Breno%20%27s%20GitHub%20Stats"/><img width="420em" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=glauciobreno&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
 ![](https://github.com/glauciobreno/glauciobreno/blob/output/github-contribution-grid-snake.svg)
