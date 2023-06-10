@@ -28,7 +28,7 @@
 
 ![](https://github.com/glauciobreno/glauciobreno/blob/output/github-contribution-grid-snake.svg)
 
-## My Skill Set
+## Minhas Skills
 
 <table><tr><td valign="top" width="33%">
 
