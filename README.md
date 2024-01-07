@@ -8,7 +8,7 @@
 
 <br/>
 
-- 🌱 Atualmente tenho focado em desenvolvimento Web
+- 🌱 Atualmente Desenvolvendo em Java/Ts
 
 - ❓ Fique a vontade para me perguntar qualquer dúvida relacionada a tecnologia 😄
 
