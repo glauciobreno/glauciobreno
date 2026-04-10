@@ -16,10 +16,6 @@
 
 ## 👥 Conecte-se comigo!
 
-<p>
-<a href="https://www.linkedin.com/in/glauciobreno/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
-
 <br/>  
 <div align="center">
 <a href="https://github.com/glauciobreno">
